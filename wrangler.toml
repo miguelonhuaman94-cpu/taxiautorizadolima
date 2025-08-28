@@ -8,5 +8,5 @@ upload = { dir = "./dist" }
 directory = "./dist"
 
 [env.production]
-route = "www.taxiautorizadolima.com/*"
+route = "taxiautorizadolima.com/*"
 zone_id = "6b77c94d500cc53ddbcf2de77149b190"
